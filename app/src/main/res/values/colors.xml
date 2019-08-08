@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#FF8300</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Topics">#B5020202</color>
+    <color name="hintColours">#FF8300</color>
+    <color name="complainBtn">#FFC107</color>
+    <color name="cancelBtn">#FF3C3C</color>
+
+
+
+
+</resources>

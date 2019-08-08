@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">Thilini_feedBack_handeling</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Topics">Hello blank fragment</string>
+
+    <string name="painTxt">Hello blank fragment</string>
+
+    <string name="normal_Text">Hello blank fragment</string>
+
+    <string name="complains">Complains</string>
+
+    <string name="phoneNo">Enter Your Phone No</string>
+
+    <string name="enter_your_name">Enter Your Name</string>
+
+    <string name="subject">Subject</string>
+
+    <string name="phoneNO">Enter your Phone no</string>
+
+    <string name="buttonTxt">Cancel</string>
+
+    <string name="send">Send</string>
+
+    <string name="NoData">No Data Found</string>
+
+</resources>
